@@ -14,7 +14,7 @@ public interface EmployeeService {
     Employee login(EmployeeLoginDTO employeeLoginDTO);
 
     /**
-     *
+     * 新增员工
      * @param employeeDTO
      * @return
      */
